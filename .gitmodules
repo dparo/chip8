@@ -1,0 +1,21 @@
+[submodule "deps/Unity"]
+	path = deps/Unity
+	url = https://github.com/dparo/Unity
+[submodule "deps/log.c"]
+	path = deps/log.c
+	url = https://github.com/dparo/log.c/
+[submodule "deps/argtable3"]
+	path = deps/argtable3
+	url = https://github.com/argtable/argtable3
+[submodule "deps/doxygen-awesome-css"]
+	path = deps/doxygen-awesome-css
+	url = https://github.com/jothepro/doxygen-awesome-css.git
+[submodule "deps/greatest"]
+	path = deps/greatest
+	url = https://github.com/silentbicycle/greatest
+[submodule "deps/debugbreak"]
+	path = deps/debugbreak
+	url = https://github.com/scottt/debugbreak
+[submodule "deps/portable-snippets"]
+	path = deps/portable-snippets
+	url = https://github.com/nemequ/portable-snippets
